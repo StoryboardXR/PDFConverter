@@ -1,0 +1,1 @@
+[{"orientationLock":false,"needInitialization":false,"name":"blocker1","notes":"","transform":{"translation":[-1,0,0.5],"rotation":[0,1.57079632679,0,0],"scale":[0.5,0.5,0.5]}}, {"orientationLock":false,"needInitialization":false,"name":"blocker2","notes":"","transform":{"translation":[0,0,1.5],"rotation":[0,3.14159265,0,0],"scale":[0.75,0.5,0.25]}}]
